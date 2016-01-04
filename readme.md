@@ -1,4 +1,4 @@
-# Freeformers Kickstart/Digi-Links/BLAH
+# Freeformers links
 
 A tiny client-side web-app for filtering a list of resources based on category.
 
