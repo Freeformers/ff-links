@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {"code": "entrepreneur", "name": "I want to be an entrepreneur"},
+    {"code": "develop", "name": "I want to develop my app"},
+    {"code": "job", "name": "I want a job in digital"},
+    {"code": "community", "name": "I want to break into the tech community"}
+  ],
+  "items": [
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://youngfounders.org/",
+      "title": "Young Founders",
+      "content": "A 2 week summer programme gaining skills, confidence and learning to become an entrepreneur. Applications now open."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_1?ie=UTF8&qid=1449590433&sr=8-1&keywords=the+lean+start-up",
+      "title": "The Lean Start-up",
+      "content": "A book that will teach you the in's and out's of start-up innovation. "
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/1_Digi_Tools_EvidencePlanning.pdf",
+      "title": "Evidence planning tool",
+      "content": "When you have an idea, or a concept of your product idea, use this evidence planning tool to prove the need/market for your idea."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/2_Digi_Tools_SixHats.pdf",
+      "title": "Six hats technique",
+      "content": "Use this tool to understand and shape ideas. This technique creates a structured way to explore a concept from different perspectives and it can be applied in all sorts of ways."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/toolkit/?mc_cid=eb833565de&mc_eid=6c25399fa5",
+      "title": "Make digital work",
+      "content": "Tool kit for Arts and Culture. Find all conncted resources here."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/3_Digi_Tools_BusModelCanvas.pdf",
+      "title": "Buiness model canvas",
+      "content": "The Business Model Canvas is a strategic tool which allows you to describe, design and cost your proposed product and understand its value for your organisation and for your audience."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/4_Digi_Tools_LeanCanvas.pdf",
+      "title": "The Lean Canvas",
+      "content": "The Lean Canvas is target-focused and is used by smaller organisations and start-ups. It is more actionable than the full canvas, it puts the problem first and dives straight into the solution. It is particularly useful if you are just trying to solve a known problem or attempting an innovative project where there is no useful audience data to help shape the concept."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/5_Digi_Tools_EmpathyMapper.pdf",
+      "title": "Empathy Mapper",
+      "content": "An empathy map is a creative way to think about how your audience thinks about the world around them and will help you understand their motivations - running this as a simple exercise with your friends, family or colleagues will help you pull more realistic personas together."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/6_Digi_Tools_PersonaWorksheet.pdf",
+      "title": "Persona Worksheet",
+      "content": "Document your persona audience."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/7_Digi_Tools_ValueProposition.pdf",
+      "title": "Value proposition canvas",
+      "content": "What your produc tdes for the user. e.g. provides free access to content, a simple way to buy a ticket. These are only benefits if the user's life is enhanced by use of your product. More than look or feel, this describes how your product experience will engage people with your brand at an emotional level.The emotional drivers of decision making."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/8_Digi_Tools_StakeholderMap.pdf",
+      "title": "Stakeholder mapping matrix",
+      "content": "Keeping all the various stakeholders informed through the digital process can be challenging and you’ll need to develop a communication plan for this. It helps to have a map of ALL the people or groups involved, including members of the delivery team, and then to work through who should be involved in key decisions and how often they should be informed."
+    },
+    {
+      "categories": ["entrepreneur"],
+      "url": "http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/10_Digi_Tools_ProductExercise.pdf",
+      "title": "Minimum viable product exercise",
+      "content": "A product roadmap is a document or presentation which tells the story of how your product will develop through production and testing to launch and then through subsequent releases. It’s where you pull the threads of user experience, marketing and storytelling together. "
+    },
+    {
+      "categories": ["develop"],
+      "url": "http://getbootstrap.com/",
+      "title": "Bootstrap",
+      "content": ""
+    },
+    {
+      "categories": ["develop"],
+      "url": "https://www.codecademy.com/",
+      "title": "CodeAcademy",
+      "content": "A great place to start learning code and getting into a computation way of thinking."
+    },
+    {
+      "categories": ["develop"],
+      "url": "https://marvelapp.com/",
+      "title": "Marvel",
+      "content": "Turn your wireframe sketches into digital prototypes using Marvel app. Good for all stages of design making within the app."
+    },
+    {
+      "categories": ["develop"],
+      "url": "http://www.w3schools.com/",
+      "title": "W3 Schools",
+      "content": "Great resoure for learning more about HTML and CSS on the web."
+    },
+    {
+      "categories": ["develop"],
+      "url": "http://theleanstartup.com/principles",
+      "title": "Lean Start-up Principles",
+      "content": "Learn the lean startup principles that can help you when building a business model."
+    },
+    {
+      "categories": ["develop"],
+      "url": "http://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_1?ie=UTF8&qid=1449590433&sr=8-1&keywords=the+lean+start-up",
+      "title": "Lean Start-up Book",
+      "content": "A book that will teach you the in's and out's of start-up innovation and will change your mindset and way of thinking."
+    },
+    {
+      "categories": ["job"],
+      "url": "http://bit.ly/RiseToFreeformers",
+      "title": "Rise To",
+      "content": "Job matching platform"
+    },
+    {
+      "categories": ["job"],
+      "url": "http://youngfounders.org/",
+      "title": "Young Founders",
+      "content": "A 2 week summer programme gaining skills, confidence and learning to become an entrepreneur. Applications now open."
+    },
+    {
+      "categories": ["job"],
+      "url": "https://feedly.com/i/welcome",
+      "title": "Feedly",
+      "content": "A tool to help you updated and well read on the lastest industry news."
+    },
+    {
+      "categories": ["job"],
+      "url": "https://buffer.com/",
+      "title": "Buffer",
+      "content": "A tool to schedule your posts and make you more efficient."
+    },
+    {
+      "categories": ["job"],
+      "url": "https://twitter.com/search",
+      "title": "Twitter Search",
+      "content": "A tool to help search for job and volunteer opportunities around where you live."
+    },
+    {
+      "categories": ["job"],
+      "url": "https://rapportive.com/",
+      "title": "Rapportive",
+      "content": "A tool to show you the LinkedIn profiles of your contacts inside Gmail."
+    },
+    {
+      "categories": ["job"],
+      "url": "http://discover.ly/thank_you",
+      "title": "Discoverly",
+      "content": ""
+    },
+    {
+      "categories": ["community"],
+      "url": "http://www.meetup.com/",
+      "title": "Meetup",
+      "content": "Meet like-minded people who share a passion for tech and attend events with them."
+    },
+    {
+      "categories": ["community"],
+      "url": "http://www.wearedotdotdot.com/dashboard",
+      "title": "We are Dot Dot Dot",
+      "content": "Find out more about the digital scene, and get involved!"
+    },
+    {
+      "categories": ["community"],
+      "url": "http://supa-academy.com/about/",
+      "title": "Supa-Academy",
+      "content": "A hub for fueling curiosity, building confidence and developing new skills in teenagers and young adults taking their first steps in enterprise. Provides advice, support and mentoring from established business leaders and entrepreneurs."
+    }
+  ]
+}
